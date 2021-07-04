@@ -3,7 +3,7 @@
 
 
 
-<img src="./assets/image.png" alt="project finalized">
+<img src="./Assets/image.png" alt="project finalized">
 
 > Resultado do Projeto Finalizado
 
