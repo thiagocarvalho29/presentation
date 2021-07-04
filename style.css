@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1 {
+    color: #D9F536;
+    font-size: 60px;
+    text-align: center;
+    margin: 40px 0;
+
+}
+
+.first-title {
+    color: #8FA800;
+    font-size: 35px;
+    margin: 60px 90px;
+}
+
+.first-paragraph {
+    color: #ac2bff;
+    margin: 20px 200px 30px 30px;
+    line-height: 40px;
+    font-size: 30px;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    text-indent: 60px;
+    text-align: justify;
+}
+
+h3{
+    color: #8FA800;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+ul{
+    color: #ac2bff;
+    text-align: center;
+    font-size: 30px;
+}
+
+a{
+    color: #6600a8;
+    text-decoration: none;
+    cursor: pointer;
+    font-style: italic;
+    text-align: center;
+}
+
+.second-title{
+    color: #8FA800;
+    font-size: 30px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+ol{
+    color: #ac2bff;
+    text-align: center;
+    line-height: 35px;
+    font-size: 40px;
+}
+
+.second-paragraph {
+    font-style: italic;
+    color: #6600a8;
+    margin-left: 20px;
+}
+
+img {
+    margin: 30px 100px;
+    width: 450px;
+    cursor: pointer;
+}
+.nome {
+    white-space: pre-wrap;
+}
+
+.email {
+    white-space: pre-wrap;
+}
+
+.idade {
+    white-space: pre-wrap;
+}
+
+.nascimento {
+    white-space: pre-wrap;
+}
+
+.rede-social {
+    white-space: pre-wrap;
+    
+}
+
+.sexo {
+    white-space: pre;
+}
+
+.olhos {
+    white-space: pre-wrap;
+}
+
+.biografia {
+    white-space: pre-wrap;
+}
+
+.perfil {
+    white-space: pre-wrap;
+}
+
+.tel {
+    white-space: pre-wrap;
+}
+
+.face {
+    white-space: pre-wrap;
+}
+
+.senhac {
+    white-space: pre-wrap;
+}
+
+div{
+    white-space: nowrap;
+    margin-left: 50px
+}
