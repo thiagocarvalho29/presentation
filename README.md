@@ -35,8 +35,11 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho29&theme=dracula&hide_langs_below=1" />
+
 <br>
 <br>
 
+Feito por Thiago Carvalho. <a href="https://www.linkedin.com/in/thiago-c-a47428142/detail/contact-info/"> Entre em contato </a>
 
 
