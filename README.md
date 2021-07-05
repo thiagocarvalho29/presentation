@@ -15,8 +15,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação CSS
 - [ ] Atualização 
 
+### Tecnologias utilizadas
 
-
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ## 🤝 Colaboradores
 
@@ -34,8 +35,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvalho29&theme=dracula&hide_langs_below=1" />
 
 <br>
 <br>
