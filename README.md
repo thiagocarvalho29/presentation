@@ -36,7 +36,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b3bf118e2fc62ca8939819a974083e232b5d8fc
 =======
 >>>>>>> 4b3bf118e2fc62ca8939819a974083e232b5d8fc
 <br>
